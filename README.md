@@ -3,6 +3,7 @@
 * [Clean "Done" Microsoft Todo Tasks for good](/clean%20todo%20tasks%20for%20good.md)
 * [Get Notifications On Current OneNote book size](/onenote%20book%20size%20notification.md)
 * [Turn Newsletters (or any mail you want) into OneNote entries](/turn%20newsletters%20in%20onenote%20entries.md)
+* [Manage Invoice Attachments coming in via E-Mail](/manage%20invoice%20mails.md)
 
 Want to learn more? Check out my many other articles:
 
