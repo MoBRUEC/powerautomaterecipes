@@ -21,3 +21,18 @@ And some tweaking and creating the Todo:
 ![switch clause in Power Automate](images/11.png)
 
 And that's it. Now I can safely delete the mail, the attachment is stored and linked to. I could in addition [create a OneNote entry, if I wanted](/turn%20newsletters%20in%20onenote%20entries.md).
+
+Want to learn more? Check out my many other articles:
+
+[Advanced Automation using Azure & serverless services](https://medium.com/serverless-and-lowocode-pioneers/using-logic-apps-to-orchestrate-a-complex-video-processing-process-flow-a0ef20237511)
+
+And even more:
+
+**LinkedIn** > [LinkedIn Articles about Business & Tech](https://www.linkedin.com/today/author/mbrueckner)
+
+**Medium** > [Articles about detailed topics around Cloud Computing and more](https://medium.com/@mohammedbrueckner)
+
+**DevTo** > [Even more detailed articles on topics like using AI Services](https://dev.to/mrbrue)
+
+Cheers!
+[Mo](https://github.com/MoBRUEC)
