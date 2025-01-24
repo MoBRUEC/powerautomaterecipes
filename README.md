@@ -16,7 +16,5 @@ And even more:
 
 **Medium** > [Articles about detailed topics around Cloud Computing and more](https://medium.com/@mohammedbrueckner)
 
-**DevTo** > [Even more detailed articles on topics like using AI Services](https://dev.to/mrbrue)
-
 Cheers!
 [Mo](https://github.com/MoBRUEC)
